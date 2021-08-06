@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jomjosex
+- 👋 Hi, I’m Jom Jose
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on development
