@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jom Jose
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently doing masters in Software Engineering
 - 💞️ I’m looking to collaborate on development
 - 📫 Reach me @josepjom@gmail.com
 
